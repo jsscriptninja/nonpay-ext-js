@@ -1,1 +1,1 @@
-window.location = 'http://www.upwork.com/fl/anushkakrajasingha';
+//window.location = 'http://www.upwork.com/fl/anushkakrajasingha';
