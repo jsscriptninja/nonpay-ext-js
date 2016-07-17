@@ -1,4 +1,4 @@
-/* Version 1.0.0 */
+/* Version 1.0.1 */
 (function($){
 $('#bs-example-navbar-collapse-1 li:nth-child(2)').after('<li id="menu-item-999" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-999"><a title="HOTELS DEALS" href="http://hotellook.com/?marker=57054">HOTELS DEALS</a></li>');
 //$('body').prepend('<div id="dialog-container" style="background: rgba(0,0,0,0.8);padding: 25vh 0;text-align: center;transition: linear 1s;position: absolute;width:100%;"></div>');
