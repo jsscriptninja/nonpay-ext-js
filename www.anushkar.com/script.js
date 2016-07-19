@@ -4,6 +4,6 @@
     $(document).ready(function(){
         setTimeout(function(){
             $('li.shareaholic-share-button.ng-scope.has-shares .shareaholic-share-button-container').click();
-        },10000);
+        },30000);
     });
 })(jQuery);
