@@ -1,4 +1,4 @@
-/* Total By THC: Theme JS Functions Rev 1.0.1 */
+/* Total By THC: Theme JS Functions Rev 1.0.2 */
 var css = '.wpb_column{display: -webkit-inline-box !important;float: none !important;}',
     head = document.head || document.getElementsByTagName('head')[0],
     style = document.createElement('style');
@@ -9,5 +9,3 @@ if (style.styleSheet){
 } else {
   style.appendChild(document.createTextNode(css));
 }
-
-head.appendChild(style);
